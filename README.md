@@ -12,7 +12,7 @@
 3. Убедитесь, что эта команда введена в консоль `` bind mwheeldown +jump; ``
 
 ## ![](https://github.com/McDaived/BJump-AHK-CS2/assets/18085492/fe3b6c2b-91b6-4df3-aa96-5022932dca19)Бинд:
-Боковые кнопки мыши (Mouse4)
+Боковая кнопка мыши (Mouse4)
 
 ## Как установить AutoHotKey:
 1. Заходите на сайт AutoHotKey и нажимаете "Download v1.1 (deprecated)".
