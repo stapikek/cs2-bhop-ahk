@@ -3,7 +3,7 @@
 <p align="center">
         <img src="https://i.ytimg.com/vi/6dMwgNxpVak/maxresdefault.jpg" alt="Logo" width="300" height="300">
     </a>
-<h4 align="center">Скрипт AutoHotKey к bhop в cs2. <br> Не может быть заблокирован, так как он просто использует AutoHotKey. <br> Для работы скрипта скачать: https://www.autohotkey.com/</h4>
+<h4 align="center">Скрипт AutoHotKey к bhop в cs2. <br> За этот скрипт, вам никогда не дадут бан (в Valornt'е дают). <br> Для работы скрипта скачать: https://www.autohotkey.com/</h4>
 
 
 ## ![](https://github.com/McDaived/NoRecoil-CS2/assets/18085492/7eab67ab-4b44-40ee-b050-53e48a856fc5)Как использовать:
