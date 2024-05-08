@@ -12,4 +12,4 @@
 3. Убедитесь, что эта команда введена в консоль `` bind mwheeldown +jump; ``
 
 ## ![](https://github.com/McDaived/BJump-AHK-CS2/assets/18085492/fe3b6c2b-91b6-4df3-aa96-5022932dca19)Бинд:
-Боковые кнопки мыши (Mouse5)
+Боковые кнопки мыши (Mouse4)
