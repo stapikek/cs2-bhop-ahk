@@ -15,7 +15,7 @@
 Боковая кнопка мыши (Mouse4)
 
 ## Как установить AutoHotKey:
-1. Заходите на сайт AutoHotKey и нажимаете "Download v1.1 (deprecated)".
+1. Заходите на сайт [AutoHotKey](https://www.autohotkey.com/) и нажимаете "Download v1.1 (deprecated)".
 2. Запускайте AutoHotkey_1.1.37.02_setup.exe после нажимайте "Express Installation", после "Exit".
 3. Кидаете на рабочий стол или в папку нужный ahk и кликаете по нему 2 раза.
 4. Заходите в игру и зажимаете нужную кнопку.
