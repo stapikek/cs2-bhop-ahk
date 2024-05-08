@@ -13,3 +13,12 @@
 
 ## ![](https://github.com/McDaived/BJump-AHK-CS2/assets/18085492/fe3b6c2b-91b6-4df3-aa96-5022932dca19)Бинд:
 Боковые кнопки мыши (Mouse4)
+
+## Как установить AutoHotKey:
+1. Заходите на сайт AutoHotKey и нажимаете "Download v1.1 (deprecated)".
+2. Запускайте AutoHotkey_1.1.37.02_setup.exe после нажимайте "Express Installation", после "Exit".
+3. Кидаете на рабочий стол или в папку нужный ahk и кликаете по нему 2 раза.
+4. Заходите в игру и зажимаете нужную кнопку.
+
+## Как сменить bind bunnyhop'a:
+Нажимаете редактировать по ahk и выбираете Notepad++, проверяем кодировку и изменяем activation_key := "xButton1" (вместо xButton1 пишите нужную вам кнопку, после сохраняете и открываете ahk).
